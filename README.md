@@ -1,4 +1,4 @@
-## Agada Samuel Ifebuche
+## Samuel Ifebuche Agada
 
 - 👋 Hi, I’m Agada Samuel Ifebuche
 - 👀 I’m passionate about health data analytics and machine learning
