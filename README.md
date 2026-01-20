@@ -1,8 +1,8 @@
 ## Samuel Ifebuche Agada
 
-- 👋 Hi, I’m Agada Samuel Ifebuche
-- 👀 I’m passionate about health data analytics and machine learning
-- 🌱 I’m currently learning advanced data analytics techniques on health management.
+- 👋 Hi, I’m Samuel Ifebuche Agada.
+- 👀 I’m a medical imaging scientist, passionate about machine learning
+- 🌱 I’m currently advancing my knowledge in machine learning as it relates to medical imaging.
 - 💞️ I’m looking to collaborate on a project that will improve the health system and patient's outcome worldwide.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/samuelifebuche/)
 - 
